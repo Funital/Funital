@@ -1,10 +1,6 @@
 # Hi, I'm Geumjoon Han 👋
 
 ---
-## 📊 GitHub Stats
-![Funital's GitHub stats](https://github-readme-stats.vercel.app/api?username=Funital&show_icons=true&theme=tokyonight)
-
----
 
 ## ⚒️ Tech Stack  
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge) 
